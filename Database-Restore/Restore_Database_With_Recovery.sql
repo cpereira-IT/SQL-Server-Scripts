@@ -1,0 +1,6 @@
+USE master;
+GO
+
+RESTORE DATABASE (Add_the_db_name)
+WITH RECOVERY;
+GO
